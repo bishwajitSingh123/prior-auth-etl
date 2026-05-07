@@ -1,0 +1,9 @@
+UNAVAILABLE SOURCES REPORT
+
+The following requested sources could not be automatically downloaded because they are either behind a portal, require authentication, or do not have a public static URL:
+
+- PMJAY HBP Package List
+- IRDAI Daycare / Master Circular
+- GIPSA Package Rates
+
+The CMS ICD-10-PCS FY2025 files were successfully downloaded into data/raw/cms.
