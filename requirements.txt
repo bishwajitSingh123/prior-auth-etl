@@ -1,0 +1,9 @@
+pandas
+openpyxl
+pdfplumber
+camelot-py
+tabula-py
+fuzzywuzzy
+python-Levenshtein
+requests
+numpy
