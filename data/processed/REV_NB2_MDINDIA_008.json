@@ -1,0 +1,31 @@
+{
+  "Seed_ID": "REV_NB2_MDINDIA_008",
+  "Target_Table": "Insurer_TPA_Master",
+  "Final_JSON": {
+    "Payer_ID": "NB2_PAY_008",
+    "Payer_Name": "MD India TPA",
+    "Payer_Type": "TPA",
+    "TPA_Associated": null,
+    "Auth_Portal_URL": null,
+    "TAT_Routine_Days": null,
+    "TAT_Emergency_Hours": null,
+    "Auth_Form_Format": null,
+    "Denial_Appeal_Window_Days": null,
+    "IRDAI_Reg_Number": null,
+    "Contact_Auth_Team": null,
+    "Common_Denial_Codes": null,
+    "PPN_Network": "No",
+    "Approval_Rate_Avg": null,
+    "NHCX_Integrated": null,
+    "TAT_1hr_Compliant": null,
+    "Settlement_15day": null,
+    "Bima_Bharosa_CMS_Integrated": null,
+    "GRO_Contact_Email": null,
+    "GIPSA_Package_Applicable": "No",
+    "TAT_3hr_Discharge_Compliant": null
+  },
+  "Approved_By": "Bishwajit",
+  "Approval_Date": "YYYY-MM-DD",
+  "Loaded_To_DB": "No",
+  "Load_Status": "Ready_for_Load"
+}
